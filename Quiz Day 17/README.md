@@ -9,4 +9,12 @@ Count correct answers score.
 
 Additional add questions [api](https://opentdb.com)
 
-Instalation pip install -r requirements.txt
+
+## Running
+```sh
+$ pip install -r requirements.txt
+```
+
+Run script 
+```sh
+$ python main.py
