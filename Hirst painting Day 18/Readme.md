@@ -1,4 +1,4 @@
-###Hirst painting Day 18
+# Hirst painting Day 18
 
 Paint with turtle library similar (image)[image.jpg]
 
