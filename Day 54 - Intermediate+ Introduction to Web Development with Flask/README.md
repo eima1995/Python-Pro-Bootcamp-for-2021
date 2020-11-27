@@ -1,7 +1,8 @@
-#Day 54 - Intermediate+ Introduction to Web Development with Flask
+# Day 54 - Intermediate+ Introduction to Web Development with Flask
 
 Simple flask example hello.py
-###Installing
+
+## Installing
 ```sh
 pip install -r requirements.txt
 ```
@@ -15,8 +16,9 @@ Run server
 python -m flask run
 ```
 
-[Decoration task](https://repl.it/@appbrewery/day-54-1-exercise#README.md)
+# Decorators task
+[Decorators task](https://repl.it/@appbrewery/day-54-1-exercise#README.md)
 
 [My solution](main.py)
 
-[Decoration solution](https://repl.it/@appbrewery/day-54-1-solution#main.py)
+[Solution](https://repl.it/@appbrewery/day-54-1-solution#main.py)
