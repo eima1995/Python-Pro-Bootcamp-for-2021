@@ -1,6 +1,6 @@
 # Hirst painting Day 18
 
-Paint with turtle library similar (image)[image.jpg]
+Paint with turtle library similar [image](image.jpg)
 
 ## Running
 ```sh
